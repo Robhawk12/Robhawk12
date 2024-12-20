@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robhawk12
 - 👀 I’m interested in web development. I also enjoy PC rpg games ie. Baldurs Gate.
-- 🌱 I’m currently learning html, css, JS, and Node.js
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me johnson.robertt@outlook.com
 
