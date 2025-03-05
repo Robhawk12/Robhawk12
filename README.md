@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Robhawk12
-- 👀 I’m interested in web development. I also enjoy PC rpg games ie. Baldurs Gate.
-
-- 💞️ I’m looking to collaborate on ...
+Highly motivated empty-nester and recently graduated Software Engineer with a strong foundation in JAVA and REST API. Bringing 20 years of experience as a delivery driver, with honed problem-solving, time management, and communication skills. Proven ability to navigate complex situations, adapt to changing demands, and build strong rapport with diverse individuals. Eager to apply a unique blend of technical expertise and practical, people-centric experience to contribute meaningfully to a dynamic software 
+development team. As a General Contractor for 7 years, I managed construction and remodeling projects.
 - 📫 How to reach me roberttodjohnson@gmail.com
 <!---
 Robhawk12/Robhawk12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
